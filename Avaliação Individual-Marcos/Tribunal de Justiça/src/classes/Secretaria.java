@@ -1,5 +1,5 @@
 package Avaliação Individual-Marcos.Tribunal de Justiça.src.classes;
-
+import Avaliação.Setor;
 public class Secretaria extends Setor:
     privado List<Processo> processos
 

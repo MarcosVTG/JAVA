@@ -1,5 +1,5 @@
 package Avaliação Individual-Marcos.Tribunal de Justiça.src.classes;
-
+import Avaliação.Setor;
 public class GabineteJuiz extends Setor:
     privado Juiz juizResponsavel
     privado List<Processo> processos
