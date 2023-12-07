@@ -1,6 +1,6 @@
 package Avaliação Individual-Marcos.Tribunal de Justiça.src.classes;
 
-publicclass Fiscalizacao {
+public class Fiscalizacao {
     private String orgaoResponsavel;
     private Estado estado;
 
